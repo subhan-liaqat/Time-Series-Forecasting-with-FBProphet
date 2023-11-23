@@ -2,11 +2,11 @@
 
 ## Overview
 
-This project focuses on time series forecasting using FbProphet, a powerful tool for predicting future trends. The dataset used contains airline passenger data, and the goal is to develop an accurate forecasting model.
+This project leverages FbProphet to forecast trends in airline passenger data, aiming for accurate predictions.
 
 ## Setup
 
-To set up the project, install the necessary dependencies:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
